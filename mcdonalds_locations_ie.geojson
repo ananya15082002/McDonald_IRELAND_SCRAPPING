@@ -1,0 +1,134 @@
+{
+  "type": "FeatureCollection",
+  "features": []
+}{
+  "type": "FeatureCollection",
+  "features": []
+}{
+  "type": "FeatureCollection",
+  "features": []
+}{
+  "type": "FeatureCollection",
+  "features": []
+}{
+  "type": "FeatureCollection",
+  "features": []
+}{
+  "type": "FeatureCollection",
+  "features": []
+}{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "HXFFFlRMKCq5APoZb5MokEAvrII=",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.41482545000001,
+          9.08006131707224
+        ]
+      },
+      "properties": {
+        "ref": "cb023b7570b743b59d8c9f5aabe4aaf2",
+        "@spider": "lion_international_bank_eth_dpa",
+        "addr:full": "Example Address",
+        "addr:city": "Example City",
+        "phones": {
+          "Store": [
+            "+251 118 55 2640"
+          ]
+        },
+        "email": {
+          "Customer Service": [
+            ""
+          ]
+        },
+        "website": "https://anbesabank.com/branch-locator/",
+        "operatingHours": {
+          "Store": []
+        },
+        "chain_id": "31802",
+        "chain_name": "Lion International Bank"
+      }
+    }
+  ]
+}{
+  "type": "FeatureCollection",
+  "features": []
+}{
+  "type": "FeatureCollection",
+  "features": []
+}{
+  "type": "FeatureCollection",
+  "features": []
+}{
+  "type": "FeatureCollection",
+  "features": []
+}{
+  "type": "FeatureCollection",
+  "features": []
+}{
+  "type": "FeatureCollection",
+  "features": []
+}{
+  "type": "FeatureCollection",
+  "features": []
+}{
+  "type": "FeatureCollection",
+  "features": []
+}{
+  "type": "FeatureCollection",
+  "features": []
+}{
+  "type": "FeatureCollection",
+  "features": []
+}{
+  "type": "FeatureCollection",
+  "features": []
+}{
+  "type": "FeatureCollection",
+  "features": []
+}{
+  "type": "FeatureCollection",
+  "features": []
+}{
+  "type": "FeatureCollection",
+  "features": []
+}{
+  "type": "FeatureCollection",
+  "features": []
+}{
+  "type": "FeatureCollection",
+  "features": []
+}{
+  "type": "FeatureCollection",
+  "features": []
+}{
+  "type": "FeatureCollection",
+  "features": []
+}{
+  "type": "FeatureCollection",
+  "features": []
+}{
+  "type": "FeatureCollection",
+  "features": []
+}{
+  "type": "FeatureCollection",
+  "features": []
+}{
+  "type": "FeatureCollection",
+  "features": []
+}{
+  "type": "FeatureCollection",
+  "features": []
+}{
+  "type": "FeatureCollection",
+  "features": []
+}{
+  "type": "FeatureCollection",
+  "features": []
+}{
+  "type": "FeatureCollection",
+  "features": []
+}
